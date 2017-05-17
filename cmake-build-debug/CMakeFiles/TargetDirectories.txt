@@ -1,0 +1,5 @@
+/home/domagalsky/Projects/SIK/WorldOfTankzClinet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/domagalsky/Projects/SIK/WorldOfTankzClinet/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/domagalsky/Projects/SIK/WorldOfTankzClinet/cmake-build-debug/CMakeFiles/ClientRun.dir
+/home/domagalsky/Projects/SIK/WorldOfTankzClinet/cmake-build-debug/CMakeFiles/BoostTest.dir
+/home/domagalsky/Projects/SIK/WorldOfTankzClinet/cmake-build-debug/CMakeFiles/WorldOfTankzClinet.dir

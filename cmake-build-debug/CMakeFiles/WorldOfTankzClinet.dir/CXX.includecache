@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/domagalsky/Projects/SIK/WorldOfTankzClinet/chat_message.hpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+
+/home/domagalsky/Projects/SIK/WorldOfTankzClinet/main.cpp
+cstdlib
+-
+deque
+-
+iostream
+-
+thread
+-
+boost/asio.hpp
+-
+chat_message.hpp
+/home/domagalsky/Projects/SIK/WorldOfTankzClinet/chat_message.hpp
+

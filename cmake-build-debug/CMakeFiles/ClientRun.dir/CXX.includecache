@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/domagalsky/Projects/SIK/WorldOfTankzClinet/client.cpp
+cstdlib
+-
+deque
+-
+iostream
+-
+thread
+-
+boost/asio.hpp
+-
+game_message.hpp
+/home/domagalsky/Projects/SIK/WorldOfTankzClinet/game_message.hpp
+
+/home/domagalsky/Projects/SIK/WorldOfTankzClinet/game_message.hpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+
